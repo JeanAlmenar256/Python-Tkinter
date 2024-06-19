@@ -1,11 +1,11 @@
-Debe correr el Test_Peliculas y debe empezar ingresando las peliculas que desea agregar a la lista,
+Debe correr el test_catalogo_peliculas y debe empezar ingresando las peliculas que desea agregar a la lista,
 luego puede ir consultando la lista y la puede eliminar, puede salir del programa cuando lo desee.
 Es un simple crud de prueba
 
-You should run Test_Movies and you should start by entering the movies you want to add to the list,
+You should run test_catalogo_peliculas and you should start by entering the movies you want to add to the list,
 then you can go through the list and you can delete it, you can exit the program whenever you want.
 It's a simple test crud
 
-Sie sollten Test_Movies ausführen und mit der Eingabe der Filme beginnen, die Sie der Liste hinzufügen möchten.
+Sie sollten test_catalogo_peliculas ausführen und mit der Eingabe der Filme beginnen, die Sie der Liste hinzufügen möchten.
 dann können Sie die Liste durchgehen und sie löschen, Sie können das Programm beenden, wann immer Sie wollen.
 Es ist ein einfaches Test-Crud
